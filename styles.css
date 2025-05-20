@@ -154,3 +154,7 @@ padding: 1rem 0.5rem;
 max-width: 98%;
 }
 }
+img{
+    width: 300px;
+    height: 300px;
+}
